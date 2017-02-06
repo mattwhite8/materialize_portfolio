@@ -49,3 +49,15 @@ i {
 	color: #1e88e5;
 	font-weight: 300;
 }
+
+#work {
+	background: rgb(247,247,247);
+}
+
+.h2-text-alt {
+	color: #1e88e5;
+}
+
+.card .card-image img {
+	height: 250px;
+}
