@@ -47,6 +47,10 @@ i {
 	color: white;
 }
 
+.icon_blue {
+	color: #1e88e5;
+}
+
 .h2-text {
 	font-weight: 100;
 	line-height: 4.5rem;
@@ -76,4 +80,8 @@ i {
 
 footer {
 	background-color: #1e88e5;
+}
+
+#footer-row {
+	margin-bottom: 0;
 }
