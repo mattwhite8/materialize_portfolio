@@ -21,6 +21,14 @@ i {
 	font-weight: 100;
 }
 
+.material-icons {
+	color: white;
+}
+
+.navbar-fixed {
+	z-index: 998;
+}
+
 #intro {
 	min-height: 632px;
 	max-height: 864px;
