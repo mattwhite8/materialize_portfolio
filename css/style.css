@@ -50,7 +50,7 @@ i {
 	font-weight: 300;
 }
 
-#work {
+#work, #about {
 	background: rgb(247,247,247);
 }
 
@@ -60,4 +60,8 @@ i {
 
 .card .card-image img {
 	height: 250px;
+}
+
+.parallax-container {
+	max-height: 400px;
 }
